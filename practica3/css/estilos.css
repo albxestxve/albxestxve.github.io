@@ -1,0 +1,35 @@
+body {
+    background-image: url("../images/fondo.jpg");
+    background-position: top center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    text-align: center;
+    font-family: "Saira Semi Condensed", sans-serif;
+}
+
+h1 {
+    background-color: #C6C8CA;
+    color: white;
+    border-left-width: 10px;
+    border-left-style: solid;
+    border-left-color: black;
+    font-family: "Saira Semi Condensed", sans-serif;
+}
+
+img {
+    height: 500px;
+    border:7px black solid;
+    border-radius: 25px;
+    box-shadow: 10px 5px 5px black;
+}
+
+ul {
+    list-style: none;
+}
+
+li {
+    display: inline;
+    border:2px black solid;
+}
+
